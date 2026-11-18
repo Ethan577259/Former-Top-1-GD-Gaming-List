@@ -1,7 +1,7 @@
-import List from './pages/List.js';
-import Leaderboard from './pages/Leaderboard.js';
-import Roulette from './pages/Roulette.js';
-import ListPacks from './pages/ListPacks.js'
+import List from './List.js';
+import Leaderboard from './Leaderboard.js';
+import Roulette from './Roulette.js';
+import ListPacks from './ListPacks.js';
 
 export default [
     { path: '/', component: List },
