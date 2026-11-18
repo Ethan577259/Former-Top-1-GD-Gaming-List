@@ -1,10 +1,10 @@
-import { store } from '../main.js';
-import { embed, getFontColour } from '../util.js';
-import { score } from '../score.js';
-import { fetchEditors, fetchList } from '../content.js';
+import { store } from './main.js';
+import { embed, getFontColour } from './util.js';
+import { score } from './score.js';
+import { fetchEditors, fetchList } from './content.js';
 
-import Spinner from '../components/Spinner.js';
-import LevelAuthors from '../components/List/LevelAuthors.js';
+import Spinner from './Spinner.js';
+import LevelAuthors from './LevelAuthors.js';
 
 const roleIconMap = {
 	owner: 'crown',
