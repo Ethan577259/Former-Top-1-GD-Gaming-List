@@ -1,0 +1,22 @@
+[
+{
+        "name": "Not list-worthy",
+        "levels": ["Uwu Processing", "Personal Hell"],
+        "colour": "#ff9100"
+    },  
+{
+        "name": "List-worthy",
+        "levels": ["Esektin Bogu", "Tomboy Circles", "Turn the Lights Buff", "Herobirth Brainday", "Googolplex Buffed","Two Four Six Eight","Minus world nerf","Blue","Flame"],
+        "colour": "#eb4034"
+    },
+{
+        "name": "GDGL V2",
+        "levels": ["Northstep", "Fast Jamz"],
+        "colour": "#0026ff"
+    },
+{       
+        "name": "DEGRADED",
+        "levels": ["Samuel Level"],
+        "colour": "#FFFFFF"
+     }
+]
