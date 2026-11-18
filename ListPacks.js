@@ -1,9 +1,9 @@
-import { fetchPacks, fetchPackLevels } from "../content.js";
-import { getFontColour, embed } from "../util.js";
-import { score } from "../score.js";
+import { fetchPacks, fetchPackLevels } from "./content.js";
+import { getFontColour, embed } from "./util.js";
+import { score } from "./score.js";
 
-import Spinner from "../components/Spinner.js";
-import LevelAuthors from "../components/List/LevelAuthors.js";
+import Spinner from "./Spinner.js";
+import LevelAuthors from "./LevelAuthors.js";
 
 export default {
     components: {
