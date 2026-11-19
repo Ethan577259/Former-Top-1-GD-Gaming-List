@@ -113,7 +113,7 @@ export default {
                     <h3> FAQ </h3>
                     <p> The FT1GL or the Former Top 1 Gaming List is a list of all former GDGL top 1s starting from Personal Hell. Showcase is off by default, due to the GDGL only providing the verification video, but in this case some levels like Blue and Flame have showcase levels. Victors are also off by default. Don't ask why. </p>
                     <p> - Unlike other lists, this list is never meant to be a competition, rather than an archive for every GDGL top 1 level ever made. </p>
-                    <p> - Once a level reaches the top 150, it'll stay there for a day or two before being archived in a seperate only owner list.
+                    <p> - Once a level reaches the top 150, it'll stay there for a day or two before being archived in a seperate only owner list. </p>
                     <p> - If a level doesn't have any information (regarding its creator, publisher, etc) and even a blank thumbnail, it either means it is partially lost or is fully lost unless information is given about the certain level. </p>
                 </div>
             </div>
