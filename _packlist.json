@@ -1,22 +1,38 @@
 [
-{
+    {
         "name": "Not list-worthy",
-        "levels": ["Uwu Processing","Personal Hell"],
+        "levels": [
+            "uwu_processing",
+            "personal_hell"
+        ],
         "colour": "#ff9100"
-    },  
-{
+    },
+    {
         "name": "List-worthy",
-        "levels": ["Esektin Bogu", "Tomboy Circles", "Turn the Lights Buff", "Herobirth Brainday", "Googolplex Buffed","Two Four Six Eight","Minus world nerf","Blue","Flame"],
+        "levels": [
+            "esektin_bogu",
+            "tomboy_circles",
+            "turn_the_lights_buff",
+            "herobirth_brainday",
+            "googolplex_buffed",
+            "two_four_six_eight",
+            "minus_world_nerf",
+            "blue",
+            "flame"
+        ],
         "colour": "#eb4034"
     },
-{
+    {
         "name": "GDGL V2",
-        "levels": ["Northstep", "Fast Jamz"],
+        "levels": [
+            "northstep",
+            "fast_jamz"
+        ],
         "colour": "#0026ff"
     },
-{       
+    {
         "name": "DEGRADED",
-        "levels": ["Samuel Level"],
+        "levels": [],
         "colour": "#FFFFFF"
-     }
+    }
 ]
